@@ -11,3 +11,5 @@ This code works based on an algorithm based on 3 dimensional histogram.
 <div align="center">
     <img src="https://raw.githubusercontent.com/wiki/Algo-k/ForegroundDetector3DH/ThreeDH.jpg" alt="3d histogram" width="20%">
 </div>
+
+For more details about code usage or algorithm see [Wiki Page](https://raw.githubusercontent.com/wiki/Algo-k/ForegroundDetector3DH/Home.md)
